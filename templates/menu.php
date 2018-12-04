@@ -5,8 +5,8 @@
 ?>
 
   <nav> 
-    <ul class="menu"> 
-      <li><a href="about.html">Vilka vi är &#x3020;</a></li> 
-      <li><a href="gamelist.html">Spelen &#x2318;</a></li> 
+    <ul> 
+      <li><a href="gamelist.html">Våra spel</a></li> 
+      <li><a href="about.html">Om sidan</a></li> 
     </ul> 
   </nav>

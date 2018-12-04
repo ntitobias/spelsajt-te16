@@ -1,7 +1,7 @@
 @charset "utf-8";
 
 #logo{
-    width: 100px;
+    width: 150px;
 }
 
 h1{
@@ -17,8 +17,6 @@ nav li{
     border: 2px solid darkviolet;
     text-align: center;
     list-style-type: none;
-    padding: 10px 0;
-    margin: 10px 0;
 }
 
 li a{

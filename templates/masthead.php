@@ -3,10 +3,13 @@
  * Mall för masthead
  */
 ?>
-<header> 
-<div class="hwrap"> 
-  <a href="./"><img class="logo" alt="Startsidan" src="img/laxlogo.png" /></a> 
-  <h1>Spelsajten: <span><?php echo $h1span; ?></span></h1> 
-</div> 
-<hr /> 
+<header>
+  <a href="https://www.ntigymnasiet.se/sodertalje/">
+    <img id="logo" src="images/NTI Gymnasiet_Södertälje_Digital_svart.png" alt="NTI-logga" />
+  </a>
+  <form action="" id="loginform">
+      <input type="text"><button>Logga in!</button><a href="signup.html">Registrera dig</a>
+  </form>
+  <h1>Spelsajten</h1>
+  <hr /> 
 </header> 
