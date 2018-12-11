@@ -1,4 +1,3 @@
-$ cat includes
-includes/settings.php
-includes/global.inc.php
-includes/settings.php
+cat includes
+settings.php
+global.inc.php
